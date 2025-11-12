@@ -1261,8 +1261,8 @@
     "m_ObjectId": "61b56b11638f487a8c38335f00d9ce3b",
     "m_Title": "Half vector",
     "m_Position": {
-        "x": -1340.5,
-        "y": 116.5
+        "x": -1341.0,
+        "y": 116.99991607666016
     }
 }
 
@@ -1977,8 +1977,8 @@
     "m_ObjectId": "ec899c00a3c745a4bf9598c8c67de7b8",
     "m_Title": "Specular light",
     "m_Position": {
-        "x": -1015.0,
-        "y": -397.5
+        "x": -1014.9999389648438,
+        "y": -397.0
     }
 }
 
