@@ -120,7 +120,7 @@ Material:
     - _MaxHeight: 7.16
     - _MaxWaveHeight: 2.04
     - _Metallic: 0
-    - _MinHeight: 3.68
+    - _MinHeight: 4.16
     - _NoiseScale: 33.12
     - _OcclusionStrength: 1
     - _Parallax: 0.005
