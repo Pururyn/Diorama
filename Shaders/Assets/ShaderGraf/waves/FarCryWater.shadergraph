@@ -981,8 +981,8 @@
     "m_ObjectId": "09f1454f40954ce28057c39c05aaeedc",
     "m_Title": "Waves",
     "m_Position": {
-        "x": 1081.999755859375,
-        "y": -1626.0001220703125
+        "x": 1082.0,
+        "y": -1626.0
     }
 }
 
@@ -1320,8 +1320,8 @@
     "m_ObjectId": "1fc0cfeaf7dd4bb2a22bf493c6163cab",
     "m_Title": "Refraction",
     "m_Position": {
-        "x": -1032.9998779296875,
-        "y": -628.9999389648438
+        "x": -1033.0,
+        "y": -629.0
     }
 }
 
@@ -2166,8 +2166,8 @@
     "m_ObjectId": "4ebe6fcedb51491590fb5f073412b2c8",
     "m_Title": "Water foam",
     "m_Position": {
-        "x": -13.00018310546875,
-        "y": 513.7425537109375
+        "x": -13.0,
+        "y": 514.0
     }
 }
 
@@ -2450,7 +2450,7 @@
     "m_Group": {
         "m_Id": "4ebe6fcedb51491590fb5f073412b2c8"
     },
-    "m_Name": "Far Cry Water Noise",
+    "m_Name": "FarCryWaterNoise",
     "m_DrawState": {
         "m_Expanded": true,
         "m_Position": {
@@ -2784,8 +2784,8 @@
     "m_ObjectId": "6a8bc913d38e4e76af0414ea9be26759",
     "m_Title": "Depth opacity",
     "m_Position": {
-        "x": 607.9998779296875,
-        "y": -209.25755310058595
+        "x": 608.0,
+        "y": -209.0
     }
 }
 
@@ -3343,7 +3343,7 @@
     "m_Group": {
         "m_Id": "09f1454f40954ce28057c39c05aaeedc"
     },
-    "m_Name": "Far Cry Water Noise",
+    "m_Name": "FarCryWaterNoise",
     "m_DrawState": {
         "m_Expanded": true,
         "m_Position": {
