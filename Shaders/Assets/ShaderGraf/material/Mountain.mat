@@ -113,13 +113,13 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _HeightIntensity: 15
+    - _HeightIntensity: 7
     - _MaxDepth: 29.7
-    - _MaxHeight: 13
+    - _MaxHeight: 7.16
     - _MaxWaveHeight: 2.04
     - _Metallic: 0
-    - _MinHeight: 6.6
-    - _NoiseScale: 17.21
+    - _MinHeight: 3.68
+    - _NoiseScale: 33.12
     - _OcclusionStrength: 1
     - _Parallax: 0.005
     - _QueueControl: 0
@@ -140,9 +140,9 @@ Material:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _Herb: {r: 0.13333327, g: 0.54509807, b: 0.13333327, a: 1}
-    - _Rock: {r: 0.509434, g: 0.3092919, b: 0.1321645, a: 1}
-    - _Snow: {r: 0.4669811, g: 0.79606247, b: 1, a: 1}
+    - _Herb: {r: 0.25142398, g: 0.4716981, b: 0.25142398, a: 1}
+    - _Rock: {r: 1, g: 0.509434, b: 0.08018869, a: 1}
+    - _Snow: {r: 1, g: 1, b: 1, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
