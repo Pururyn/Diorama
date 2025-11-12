@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jhuynh\\source\\repos\\Pomelo\\Shaders\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07862C7E-66AB-D69A-A713-C5A4966ECAA3}|Assembly-CSharp.csproj|c:\\users\\jhuynh\\source\\repos\\pomelo\\shaders\\assets\\scripts\\waves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07862C7E-66AB-D69A-A713-C5A4966ECAA3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\waves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Waves.cs",
+              "DocumentMoniker": "C:\\Users\\jhuynh\\source\\repos\\Pomelo\\Shaders\\Assets\\Scripts\\Waves.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Waves.cs",
+              "ToolTip": "C:\\Users\\jhuynh\\source\\repos\\Pomelo\\Shaders\\Assets\\Scripts\\Waves.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Waves.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T09:07:30.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
