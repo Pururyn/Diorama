@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jhuynh\\source\\repos\\Pomelo\\Shaders\\",
+  "WorkspaceRootPath": "C:\\Users\\cthiery\\Documents\\GitHub\\Diorama\\Shaders\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07862C7E-66AB-D69A-A713-C5A4966ECAA3}|Assembly-CSharp.csproj|c:\\users\\jhuynh\\source\\repos\\pomelo\\shaders\\assets\\scripts\\waves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07862C7E-66AB-D69A-A713-C5A4966ECAA3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\waves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07862C7E-66AB-D69A-A713-C5A4966ECAA3}|Assembly-CSharp.csproj|c:\\users\\cthiery\\documents\\github\\diorama\\shaders\\assets\\scripts\\daynightcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07862C7E-66AB-D69A-A713-C5A4966ECAA3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\daynightcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Waves.cs",
-              "DocumentMoniker": "C:\\Users\\jhuynh\\source\\repos\\Pomelo\\Shaders\\Assets\\Scripts\\Waves.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Waves.cs",
-              "ToolTip": "C:\\Users\\jhuynh\\source\\repos\\Pomelo\\Shaders\\Assets\\Scripts\\Waves.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Waves.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "DayNightCycle.cs",
+              "DocumentMoniker": "C:\\Users\\cthiery\\Documents\\GitHub\\Diorama\\Shaders\\Assets\\Scripts\\DayNightCycle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DayNightCycle.cs",
+              "ToolTip": "C:\\Users\\cthiery\\Documents\\GitHub\\Diorama\\Shaders\\Assets\\Scripts\\DayNightCycle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DayNightCycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T09:07:30.65Z",
+              "WhenOpened": "2025-11-12T13:34:44.662Z",
               "EditorCaption": ""
             }
           ]
