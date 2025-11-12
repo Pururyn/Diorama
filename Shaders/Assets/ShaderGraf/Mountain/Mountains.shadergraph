@@ -1235,7 +1235,11 @@
     "m_ObjectId": "0aa03b3ef5274ea4aa1cde82e1f8719d",
     "m_Datas": [],
     "m_ActiveSubTarget": {
+<<<<<<< Updated upstream
         "m_Id": "d91283e1f7cf4394885d742f9c7a6011"
+=======
+        "m_Id": "b675ad7a2d6d4864b48b8e0429fe6b0d"
+>>>>>>> Stashed changes
     },
     "m_AllowMaterialOverride": false,
     "m_SurfaceType": 0,
@@ -1726,7 +1730,11 @@
     "m_ObjectId": "1f8dd184172f40f98c8315c8d0ee7d86",
     "m_Title": "Vertex Height",
     "m_Position": {
+<<<<<<< Updated upstream
         "x": -1679.0,
+=======
+        "x": -1679.0001220703125,
+>>>>>>> Stashed changes
         "y": -636.0
     }
 }
@@ -3522,8 +3530,13 @@
     "m_ObjectId": "68007a403775462c851c09e676a958db",
     "m_Title": "Mountain 3 Colors step ",
     "m_Position": {
+<<<<<<< Updated upstream
         "x": -875.0,
         "y": 76.0
+=======
+        "x": -713.9998168945313,
+        "y": 180.0001678466797
+>>>>>>> Stashed changes
     }
 }
 
@@ -3687,8 +3700,13 @@
     "m_ObjectId": "6fef7b1220f247a5829a6414c391cbb7",
     "m_Title": "Min Max Height",
     "m_Position": {
+<<<<<<< Updated upstream
         "x": -2164.0,
         "y": 83.0
+=======
+        "x": -2048.0,
+        "y": 8.000064849853516
+>>>>>>> Stashed changes
     }
 }
 
@@ -5633,6 +5651,12 @@
 }
 
 {
+    "m_SGVersion": 2,
+    "m_Type": "UnityEditor.Rendering.Universal.ShaderGraph.UniversalUnlitSubTarget",
+    "m_ObjectId": "b675ad7a2d6d4864b48b8e0429fe6b0d"
+}
+
+{
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "b3e0045082ed42d79a614a1bc3e52bdc",
@@ -6461,6 +6485,7 @@
 }
 
 {
+<<<<<<< Updated upstream
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.MultiplyNode",
     "m_ObjectId": "ebd28f4444b346b8b7cc311f49d578c5",
@@ -6555,6 +6580,8 @@
 }
 
 {
+=======
+>>>>>>> Stashed changes
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.DynamicVectorMaterialSlot",
     "m_ObjectId": "f3f5eda977eb4144862aef837f67c9c4",
