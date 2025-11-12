@@ -98,6 +98,7 @@ Material:
     - _AddPrecomputedVelocity: 0
     - _AlphaClip: 0
     - _AlphaToMask: 0
+    - _AmbientIntensity: 0
     - _Blend: 0
     - _BlendModePreserveSpecular: 1
     - _BumpScale: 1
@@ -114,6 +115,7 @@ Material:
     - _Glossiness: 0
     - _GlossyReflections: 0
     - _HeightIntensity: 7
+    - _LightIntensity: 0
     - _MaxDepth: 29.7
     - _MaxHeight: 7.16
     - _MaxWaveHeight: 2.04
@@ -127,9 +129,11 @@ Material:
     - _ReceiveShadows: 1
     - _RefractionScale: 36.01
     - _RefractionStrength: 0
+    - _Shininess: 0.54
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
+    - _SpecularIntensity: 0
     - _SrcBlend: 1
     - _SrcBlendAlpha: 1
     - _Surface: 0
@@ -137,12 +141,16 @@ Material:
     - _XRMotionVectorsPass: 1
     - _ZWrite: 1
     m_Colors:
+    - _AmbientColor: {r: 1, g: 1, b: 1, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _Herb: {r: 0.25142398, g: 0.4716981, b: 0.25142398, a: 1}
+    - _LightColor: {r: 1, g: 1, b: 1, a: 0}
+    - _LightDirection: {r: 0.3, g: 0.7, b: 0.5, a: 0}
     - _Rock: {r: 1, g: 0.509434, b: 0.08018869, a: 1}
     - _Snow: {r: 1, g: 1, b: 1, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+    - _SpecularColor: {r: 1, g: 0.8537736, b: 0.8537736, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
