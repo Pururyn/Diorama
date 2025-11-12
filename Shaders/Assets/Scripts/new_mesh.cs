@@ -1,5 +1,6 @@
 using System.Drawing;
 using UnityEngine;
+[ExecuteAlways]
 
 public class new_mesh : MonoBehaviour
 {
