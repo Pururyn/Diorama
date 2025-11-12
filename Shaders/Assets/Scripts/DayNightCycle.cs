@@ -3,7 +3,7 @@ using UnityEngine;
 public class DayNightCycle : MonoBehaviour
 {
     [SerializeField] private float dayLengthSeconds = 60f;
-    [SerializeField] private float timeOfDay = 0f;
+    [SerializeField] private float timeOfDay = 0.5f;
     [SerializeField] private float rotationSpeed;
     [SerializeField] public Gradient skyColorGradient;
 
