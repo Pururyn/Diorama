@@ -101,7 +101,7 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _MaxDepth: 8.46
+    - _MaxDepth: 0.15
     - _MaxWaveHeight: 0.4
     - _Metallic: 0
     - _MovementSpeed: 2
