@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\cthiery\\Documents\\GitHub\\Diorama\\Shaders\\",
+  "WorkspaceRootPath": "C:\\Users\\Coco\\Documents\\GitHub\\Diorama\\Shaders\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07862C7E-66AB-D69A-A713-C5A4966ECAA3}|Assembly-CSharp.csproj|c:\\users\\cthiery\\documents\\github\\diorama\\shaders\\assets\\scripts\\daynightcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07862C7E-66AB-D69A-A713-C5A4966ECAA3}|Assembly-CSharp.csproj|c:\\users\\coco\\documents\\github\\diorama\\shaders\\assets\\scripts\\shadergloballighting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07862C7E-66AB-D69A-A713-C5A4966ECAA3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shadergloballighting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07862C7E-66AB-D69A-A713-C5A4966ECAA3}|Assembly-CSharp.csproj|c:\\users\\coco\\documents\\github\\diorama\\shaders\\assets\\scripts\\daynightcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07862C7E-66AB-D69A-A713-C5A4966ECAA3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\daynightcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -17,20 +21,29 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DayNightCycle.cs",
+              "DocumentMoniker": "C:\\Users\\Coco\\Documents\\GitHub\\Diorama\\Shaders\\Assets\\Scripts\\DayNightCycle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DayNightCycle.cs",
+              "ToolTip": "C:\\Users\\Coco\\Documents\\GitHub\\Diorama\\Shaders\\Assets\\Scripts\\DayNightCycle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DayNightCycle.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:45:05.014Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DayNightCycle.cs",
-              "DocumentMoniker": "C:\\Users\\cthiery\\Documents\\GitHub\\Diorama\\Shaders\\Assets\\Scripts\\DayNightCycle.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\DayNightCycle.cs",
-              "ToolTip": "C:\\Users\\cthiery\\Documents\\GitHub\\Diorama\\Shaders\\Assets\\Scripts\\DayNightCycle.cs",
-              "RelativeToolTip": "Assets\\Scripts\\DayNightCycle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Title": "ShaderGlobalLighting.cs",
+              "DocumentMoniker": "C:\\Users\\Coco\\Documents\\GitHub\\Diorama\\Shaders\\Assets\\Scripts\\ShaderGlobalLighting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ShaderGlobalLighting.cs",
+              "ToolTip": "C:\\Users\\Coco\\Documents\\GitHub\\Diorama\\Shaders\\Assets\\Scripts\\ShaderGlobalLighting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ShaderGlobalLighting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T13:34:44.662Z",
+              "WhenOpened": "2025-11-13T18:03:35.432Z",
               "EditorCaption": ""
             }
           ]
