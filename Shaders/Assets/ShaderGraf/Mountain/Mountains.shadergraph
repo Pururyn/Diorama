@@ -1235,7 +1235,7 @@
     "m_ObjectId": "0aa03b3ef5274ea4aa1cde82e1f8719d",
     "m_Datas": [],
     "m_ActiveSubTarget": {
-        "m_Id": "d91283e1f7cf4394885d742f9c7a6011"
+        "m_Id": "6051dabcff434b73bc51dc696592a6b5"
     },
     "m_AllowMaterialOverride": false,
     "m_SurfaceType": 0,
@@ -3384,6 +3384,12 @@
 }
 
 {
+    "m_SGVersion": 2,
+    "m_Type": "UnityEditor.Rendering.Universal.ShaderGraph.UniversalUnlitSubTarget",
+    "m_ObjectId": "6051dabcff434b73bc51dc696592a6b5"
+}
+
+{
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.DynamicVectorMaterialSlot",
     "m_ObjectId": "6053bb42ccf440be884e40de9af48893",
@@ -4146,7 +4152,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector3MaterialSlot",
     "m_ObjectId": "88024c7cc87c42e79f65e790ccb8e7e8",
     "m_Id": 0,
-    "m_DisplayName": "LightDirection",
+    "m_DisplayName": "LightDirections",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -4393,10 +4399,10 @@
     "m_Guid": {
         "m_GuidSerialized": "d3d673a1-2e5e-4ec9-8ee2-c79048018328"
     },
-    "m_Name": "LightDirection",
+    "m_Name": "LightDirections",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "LightDirection",
-    "m_DefaultReferenceName": "_LightDirection",
+    "m_RefNameGeneratedByDisplayName": "LightDirections",
+    "m_DefaultReferenceName": "_LightDirections",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -4874,7 +4880,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector3MaterialSlot",
     "m_ObjectId": "9c296c69cf9c486fa2e68d8b631c7e60",
     "m_Id": 0,
-    "m_DisplayName": "LightDirection",
+    "m_DisplayName": "LightDirections",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -5521,7 +5527,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector3MaterialSlot",
     "m_ObjectId": "b12ebdd586324e7b91d6aa1c90a4014d",
     "m_Id": 0,
-    "m_DisplayName": "LightDirection",
+    "m_DisplayName": "LightDirections",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -6145,12 +6151,6 @@
         "z": 0.0
     },
     "m_Labels": []
-}
-
-{
-    "m_SGVersion": 2,
-    "m_Type": "UnityEditor.Rendering.Universal.ShaderGraph.UniversalUnlitSubTarget",
-    "m_ObjectId": "d91283e1f7cf4394885d742f9c7a6011"
 }
 
 {
