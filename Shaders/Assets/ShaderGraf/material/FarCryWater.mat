@@ -101,7 +101,7 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _MaxDepth: 0.15
+    - _MaxDepth: 0.18
     - _MaxWaveHeight: 0.4
     - _Metallic: 0
     - _MovementSpeed: 2
@@ -111,8 +111,8 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _RefractionScale: 34.01
-    - _RefractionStrength: 0.008
+    - _RefractionScale: 33.2
+    - _RefractionStrength: 0.07
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
